@@ -1,5 +1,3 @@
-
-import numpy as  np
 import math
 
 p= [.7,.1,.2] 
